@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: 'Indie Flower', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background: linear-gradient(to right, #96fbc4 0%, #f9f586 100%); */
+  /* background-image: linear-gradient(to , #6a11cb 0%, #2575fc 100%); */
+  background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.9)),url(./1.jpg) !important;
+}
+
+button{
+  cursor:pointer;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
